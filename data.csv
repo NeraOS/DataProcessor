@@ -1,0 +1,5 @@
+name,age,salary,department
+Alice,30,50000,HR
+Bob,22,60000,IT
+Charlie,35,70000,Finance
+David,28,,Marketing
